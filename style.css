@@ -1,0 +1,41 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin: 0;
+}
+.heading h3{
+    float:left;
+}
+.heading button{
+    font-size: 20px;
+    float:right;
+    border-width: 7px;
+    border-color: white;
+}
+#startbtn, #status, #restart
+{
+    font-size: 17px;
+}
+.modal-dialog
+{
+    width:90%;
+}
+h4{
+    background-color: #f5f5f5;
+    line-height: 2;
+    bottom:0;
+    width:100%;
+    position:fixed;
+}
+video
+{
+    border: 10px solid white;
+    border-radius: 4px;
+    margin-top: 50px;
+}
